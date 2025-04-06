@@ -52,7 +52,7 @@ for filename in os.listdir(VIDEO_DIR):
                     "max_pixels": 360 * 420,
                     "fps": 1.0,
                 },
-                {"type": "text", "text": "Describe this video as a prompt."},
+                {"type": "text", "text": "Describe this video as a prompt. but without the characteristics and styles, just the movement and clothes, extra detail on clothes. character name owkiriko"},
             ],
         }
     ]
