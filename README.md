@@ -1,6 +1,7 @@
-# qwen-video-prompter
-auto run qwenvl 2.5 that will prompt all the video in the folder you choise
+# 🎬 Qwen Video Prompter
 
-Run install.bat
-Run run.bat
-choose which folder you have the video you want to prompt
+Generate intelligent, natural-language prompts from video files using [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) — a powerful vision-language model by Alibaba Cloud.
+
+This tool allows you to select a folder of video files, and it will automatically generate `.txt` prompt files describing each one using Qwen2.5-VL.
+
+
